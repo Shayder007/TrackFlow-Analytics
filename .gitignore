@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Variáveis de ambiente e segredos (o .env.example será versionado)
+.env
+.env.*
+!.env.example
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+
+# Editor e sistema
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
