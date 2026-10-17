@@ -5,7 +5,7 @@ Projeto de portfólio que simula uma loja virtual com rastreamento de eventos
 (FastAPI) que recebe e valida os eventos, um módulo de qualidade de dados e um
 dashboard de análise.
 
-> **Status:** em desenvolvimento (Etapa 0 concluída: estrutura inicial).
+> **Status:** em desenvolvimento (Etapa 1 concluída: tracking plan).
 > Nenhuma funcionalidade foi implementada ainda.
 
 ## Tecnologias planejadas
@@ -17,6 +17,7 @@ dashboard de análise.
 
 ## Documentação
 
+- [Tracking plan](docs/tracking-plan.md)
 - [Roadmap e melhorias futuras](docs/roadmap.md)
 
 ## Aviso
