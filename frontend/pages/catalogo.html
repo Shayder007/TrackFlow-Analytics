@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Catálogo — TrackFlow Store</title>
+    <meta name="description" content="Catálogo de produtos fictícios da loja demonstrativa TrackFlow Store." />
+    <link rel="stylesheet" href="../css/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="brand" href="../index.html">TrackFlow Store</a>
+        <nav class="nav" aria-label="Principal">
+          <a href="catalogo.html" aria-current="page">Catálogo</a>
+          <a href="carrinho.html">
+            Carrinho
+            <span class="badge" id="cart-count">0</span>
+            <span class="sr-only">itens no carrinho</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="demo-banner" role="note">
+      Loja demonstrativa: produtos e pedidos são fictícios. Nenhum pagamento real é processado.
+    </div>
+
+    <main id="conteudo" class="container">
+      <h1 class="page-title">Catálogo</h1>
+      <p class="page-lead">Todos os produtos são fictícios e existem apenas para esta demonstração.</p>
+
+      <p id="catalog-status" class="message" role="status">Carregando produtos…</p>
+      <ul id="product-list" class="grid" aria-label="Lista de produtos" hidden></ul>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>TrackFlow Analytics — projeto de portfólio. Dados fictícios, sem pagamentos reais.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="../js/pages/catalogo.js"></script>
+  </body>
+</html>

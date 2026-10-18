@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TrackFlow Store — loja demonstrativa</title>
+    <meta
+      name="description"
+      content="Loja virtual demonstrativa do projeto TrackFlow Analytics. Todos os dados são fictícios."
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="brand" href="index.html">TrackFlow Store</a>
+        <nav class="nav" aria-label="Principal">
+          <a href="pages/catalogo.html">Catálogo</a>
+          <a href="pages/carrinho.html">
+            Carrinho
+            <span class="badge" id="cart-count">0</span>
+            <span class="sr-only">itens no carrinho</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="demo-banner" role="note">
+      Loja demonstrativa: produtos e pedidos são fictícios. Nenhum pagamento real é processado.
+    </div>
+
+    <main id="conteudo" class="container">
+      <section class="hero">
+        <p class="hero__eyebrow">Projeto de portfólio</p>
+        <h1>Equipamentos esportivos para quem não para.</h1>
+        <p class="hero__text">
+          Esta loja foi criada para estudar rastreamento de eventos e qualidade de dados.
+          Navegue pelos produtos, adicione itens ao carrinho e simule uma compra.
+        </p>
+        <a class="button" href="pages/catalogo.html">Ver catálogo</a>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>TrackFlow Analytics — projeto de portfólio. Dados fictícios, sem pagamentos reais.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="js/components/cart-badge.js"></script>
+  </body>
+</html>
