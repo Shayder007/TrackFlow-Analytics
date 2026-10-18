@@ -1,0 +1,74 @@
+[
+  {
+    "item_id": "SKU-1001",
+    "item_name": "Camiseta Dry Fit",
+    "price": 79.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Vestuário",
+    "emoji": "👕",
+    "description": "Camiseta leve e de secagem rápida, ideal para treinos e corridas de rua."
+  },
+  {
+    "item_id": "SKU-1002",
+    "item_name": "Boné Esportivo",
+    "price": 39.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Vestuário",
+    "emoji": "🧢",
+    "description": "Boné ajustável com tecido respirável e proteção contra o sol."
+  },
+  {
+    "item_id": "SKU-1003",
+    "item_name": "Shorts de Corrida",
+    "price": 89.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Vestuário",
+    "emoji": "🩳",
+    "description": "Shorts com forro interno e bolso lateral para chaves e cartões."
+  },
+  {
+    "item_id": "SKU-2001",
+    "item_name": "Mochila 20L",
+    "price": 149.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Acessórios",
+    "emoji": "🎒",
+    "description": "Mochila compacta de 20 litros com compartimento para garrafa."
+  },
+  {
+    "item_id": "SKU-2002",
+    "item_name": "Relógio Esportivo",
+    "price": 199.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Acessórios",
+    "emoji": "⌚",
+    "description": "Relógio resistente à água com cronômetro e contagem de voltas."
+  },
+  {
+    "item_id": "SKU-2003",
+    "item_name": "Garrafa Térmica 750ml",
+    "price": 49.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Acessórios",
+    "emoji": "🥤",
+    "description": "Garrafa de aço inox que mantém a bebida gelada por horas."
+  },
+  {
+    "item_id": "SKU-3001",
+    "item_name": "Tênis de Corrida Aero",
+    "price": 299.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Calçados",
+    "emoji": "👟",
+    "description": "Tênis leve com amortecimento responsivo para treinos diários."
+  },
+  {
+    "item_id": "SKU-3002",
+    "item_name": "Meias Esportivas (par)",
+    "price": 19.9,
+    "item_brand": "TrackFlow",
+    "item_category": "Calçados",
+    "emoji": "🧦",
+    "description": "Par de meias com reforço no calcanhar e na ponta."
+  }
+]
